@@ -22,7 +22,9 @@
 
 # Project Management
 
-1. Certificate: ![alt text](Project-Management/Jira-confluence.jpg)
+1. Certificate: 
+
+![alt text](project-management/Jira-confluence.jpg)
 
 ## JIRA
 [JIRA](Project-Management/README.md)
@@ -33,7 +35,9 @@
 
 --- 
 # Monitoring and data visualisation
-1. Certificate : ![aws](AWS-MasterClass/aws.jpg)
+1. Certificate : 
+
+![alt text](aws-masterclass/aws.jpg)
    
 ## AWS MasterClass: Monitoring and DevOps with AWS CloudWatch
 1. CloudWatch [CloudWatch](AWS-MasterClass/README.md)
